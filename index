@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <nav class="nav">
+        <a href="#" class="item one">SPECTER & ASSOCIAES</a>
+        <a href="firm.html" class="item">О НАШЕЙ ФИРМЕ</a>
+        <a href="#" class="item">НАШИ УСЛУГИ</a>
+        <a href="#" class="item">ОТЗЫВЫ</a>
+        <a href="#" class="item">СТОИМОСТЬ</a>
+    </nav>
+    <br>
+    <div class="about">
+        <img src="https://thefemaleprofessional.com/wp-content/uploads/2018/04/IMG_4019.jpg" class="image">
+    </div>
+    <br>
+    
+    <div class="phrase">
+        <img src="https://images.unsplash.com/photo-1575505586569-646b2ca898fc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bGF3fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60" width="900px">
+   <p class="ph">«Когда я веду дело, единственное, на что у меня нет шансов, — 
+       <br>это на проигрыш», — Харви Спектор</p> 
+    </div>
+    <br>
+    <div class="big">
+        <h3 class="ex">ЭКСПЕРТИЗА</h3>
+    </div>
+    <br>
+    <ul class="heading">
+        <li class="ite">Гражданское право</li>
+        <li class="ite">Коммерческое право</li>
+        <li class="ite">Арбитражный процесс</li>
+        <li class="ite">Предпринимательское право</li>
+        <li class="ite">Земельное право</li>
+    </ul>
+    <div class="big">
+        <h3 class="ex">Тарифы</h3>
+    </div>
+
+    <div class="image_2">
+        <img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8bGF3fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60" width="2200">
+    </div>
+    <br>
+    <ul class="buy">
+        <li class="service">1000$ за час работы</li>
+        <li class="service">1800$ за 2 часа работы</li>
+        <li class="service">2800$ за 3 часа работы</li> 
+    </ul>
+     <br>
+     <form class="registr">
+         <h3 class="sos">Напишите на мы  вам перезвоним</h3>
+
+         <label>Имя</label>
+         <input type="text">
+
+         <laabel>Фамилия</laabel>
+         <input type="text">
+         
+         <label>Номер телефона</label>
+         <input type="text">
+     </form>
+     <br>
+     <div class="btn">
+         <button class="cta">ОТПРАВИТЬ</button>
+     </div>
+     
+</body>
+</html>
