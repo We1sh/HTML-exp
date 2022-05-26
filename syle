@@ -1,0 +1,148 @@
+.nav{
+    display:flex;
+    justify-content:flex-end;
+    background-color:#2d4059;
+    padding:20px;
+}
+
+body{
+    background-color:#d6e6f2;
+}
+body:hover{
+    background-color:#f5eee6;
+}
+.item{
+    padding:10px;
+    color:white;
+    text-transform: uppercase;
+    text-decoration:none;
+    font-family:'Robotoc',sans-serif;
+}
+.item:hover{
+    color:gray;
+}
+.one{
+    margin-right:auto;
+}
+
+.about{
+    display:flex;
+}
+
+.image{
+    flex:1;
+}
+
+.phrase{
+    display:flex;
+}
+
+.ph{
+    align-self:center;
+    display:flex;
+    margin-left:40px;
+    font-family:'Robotoc',sans-serif;
+    text-transform:uppercase;
+    font-size:20px;
+    padding:10px;
+}
+
+.big{
+    display:flex;
+    justify-content:center;
+    font-size:30px;
+
+}
+
+.ex{
+    color:#112d4e;
+    font-family:'Robotic',sans-serif;
+    text-transform: uppercase;
+}
+.ex:hover{
+    color:#07689f;
+}
+
+.heading{
+    display:flex;
+    justify-content:space-evenly;
+    
+}
+
+
+.ite{
+    list-style:none;
+    font-size:20px;
+    font-family:'Robotic',sans-serif;
+    color:rgb(58, 58, 58);
+}
+
+.ite:hover{
+    background-color:#384259;
+    color:white;
+    padding:30px;
+}
+
+.image_2{
+    display:flex;
+    flex:2;
+    
+}
+
+.buy{
+    display:flex;
+    justify-content:space-evenly;
+    font-size:20px;
+    font-family:'Robotic', sans-serif;
+    
+}
+
+.service{
+    color:rgb(58, 58, 58);
+}
+
+.service:hover{
+    background-color:#384259;
+    color:white;
+    padding:10px;
+}
+
+.registr{
+    display:flex;
+    flex-direction:column;
+    font-family:'Robotic',sans-serif;
+}
+
+.sos{
+    display:flex;
+    justify-content:center;
+    color:#112d4e;
+    font-family:'Robotic',sans-serif;
+    text-transform: uppercase;
+    font-size:30px;
+}
+
+.sos:hover{
+    color:#07689f;
+}
+
+.btn{
+    display:flex;
+    justify-content:center;
+    font-size:30px;
+}
+
+.cta{
+    background-color: #3f72af;
+    color:white;
+    padding:20px;
+    font-size:15px;
+    cursor: pointer;
+    flex: 1;
+    border-radius:30px;
+    font-family:'Robotic',sans-serif;
+}
+
+.cta:hover{
+    background-color:aqua;
+}
